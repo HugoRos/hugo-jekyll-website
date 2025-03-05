@@ -1,8 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
+title: Hugo Rositi
+email: hugo.rositi@loria.fr
+description: Academic webpage of Dr. Hugo Rositi
 url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
@@ -12,14 +11,15 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Hugo Rositi<br/>
+  Associate Professor in Computer Science<br/>
+  Université de Lorraine
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Loria Laboratory<br/>
+  Rue du Jardin Botanique<br/>
+  54506 Vandoeuvre-lès-Nancy<br/>
+  France
 
 contact: >
   <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>

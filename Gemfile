@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "4.3.3"
+gem "jekyll", "4.4.1"
 gem "rack", ">= 2.2.3"
 gem "kramdown-parser-gfm"
 gem 'jekyll-scholar'
