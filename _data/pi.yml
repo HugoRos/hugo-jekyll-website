@@ -1,11 +1,13 @@
-- name: Dr. Richard Feynman
+- name: Dr. Hugo Rositi
   photo: hugo_rositi_adagio_bw2.jpg
   info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  email: hugo.rositi@loria.fr
+  github: https://github.com/HugoRos/
+  # researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.fr/citations?user=qbKwu-gAAAAJ&hl=fr&oi=ao
+  orcid: https://orcid.org/0000-0002-5264-2027
+  hal: https://hal.science/search/index/q/*/authIdHal_s/hugo-rositi
+  cv: papers/feynman06.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
