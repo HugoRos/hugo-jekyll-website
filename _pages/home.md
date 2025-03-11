@@ -15,13 +15,13 @@ It also helps us to understand the fundamental principles that govern the behavi
 Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
 
 <div class="container">
-    <div class="row">
-        <center>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Liver_Vasculature_XPCT_Merola2020b.jpg" width="100%"/><br/>
-            Examples of Feynman diagrams. <br/>
-            Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-        </center>
-    </div>
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Liver_Vasculature_XPCT_Merola2020b.jpg" width="100%"/><br/>
+Examples of Feynman diagrams. <br/>
+Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+</center>
+</div>
 </div>
 <br/>
 

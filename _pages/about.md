@@ -3,7 +3,6 @@ title: "About"
 layout: gridlay
 sitemap: false
 permalink: /about/
-date: "11-03-2025"
 ---
 
 ## About
