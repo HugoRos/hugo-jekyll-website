@@ -19,7 +19,14 @@
 		</div>
 	  </div>
 
-      <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }}<br/> Website customized from <a href="https://github.com/sbryngelson/academic-website-template">template</a> by <a href="https://github.com/sbryngelson">Spencer Bryngelson</a></p></center>
+      <center>
+		<p>
+			Last updated on 11/03/2025<br/>
+			Last updated on {{page.date | date: "-d %b"}}<br/>
+			&copy {{ "now" | date: "%Y" }} {{site.title | escape }}<br/> 
+			Website customized from <a href="https://github.com/sbryngelson/academic-website-template">template</a> by <a href="https://github.com/sbryngelson">Spencer Bryngelson</a>
+		</p>
+	</center>
 	</div>
   </div>
 </div>

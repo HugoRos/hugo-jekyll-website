@@ -3,6 +3,7 @@ title: "About"
 layout: gridlay
 sitemap: false
 permalink: /about/
+date: "11-03-2025"
 ---
 
 ## About
@@ -17,9 +18,14 @@ permalink: /about/
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
   <h4><i>{{ member.info }}</i></h4>
+
+  <h6>Teaching in the {{ member.teaching }}.</h6>
+  <h6>Research activities at {{ member.research }}.</h6>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
+  {% if member.orcid %} <a href="{{ member.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-3x"></i></a> {% endif %}
+  {% if member.orcid %} <a href="{{ member.hal }}" target="_blank"><i class="ai ai-hal-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
 
@@ -64,7 +70,11 @@ permalink: /about/
   <h3>Students and Mentoring</h3>
   <ul>
     {% for student in site.data.people %}
-      <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+      <li>
+        {{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})
+        <br/>
+        <i> {{ student.subject }} </i>
+      </li>
     {% endfor %}
   </ul>
 </div>

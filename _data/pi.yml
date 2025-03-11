@@ -1,6 +1,8 @@
 - name: Dr. Hugo Rositi
   photo: hugo_rositi_adagio_bw2.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
+  info: Associate professor in Computer Science (CNU27)
+  teaching : Computer science dept. at <a href="https://iutsd.univ-lorraine.fr/" target="_blank">IUT Saint-Dié</a>
+  research : <a href="https://www.loria.fr/en/" target="_blank">LORIA</a> laboratory in the <a href="https://adagio.loria.fr/" target="_blank">ADAGIO</a> team
   email: hugo.rositi@loria.fr
   github: https://github.com/HugoRos/
   # researchgate: https://www.researchgate.net/
@@ -11,9 +13,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2015) Ph.D. in Biomedical Engineering, INSA Lyon",
+      "(2011) Master Informatique, Spécialité Imagerie du Vivant, Université Pierre et Marie Curie, Paris.",
     ]
 
-  educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+  # educationshort:
+    # ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
