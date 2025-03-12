@@ -3,6 +3,7 @@ title: "Research"
 layout: gridlay
 sitemap: false
 permalink: /research/
+date: 12-03-2025
 ---
 
 <style>
@@ -39,3 +40,15 @@ iframe {
 Example description
 </div>
 </div>
+
+{% if site.data.grants %}
+
+<div class="jumbotron">
+  <h3>Grants</h3>
+  <ul>
+    {% for grant in site.data.grants %}
+      <li>{{ grant.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

@@ -21,8 +21,8 @@
 
 			<center>
 				<p>
-					Last updated on 11/03/2025<br />
-					<!-- Last updated on {{page.date | date: "-d %b"}}<br/> -->
+					<!-- Last updated on 11/03/2025<br /> -->
+					Last updated on {{ page.date | date: "%d %b %Y" }}<br/>
 					&copy {{ "now" | date: "%Y" }} {{site.title | escape }}<br />
 					Website customized from <a
 						href="https://github.com/sbryngelson/academic-website-template">template</a> by <a

@@ -3,6 +3,7 @@ title: "About"
 layout: gridlay
 sitemap: false
 permalink: /about/
+date: 12-03-2025
 ---
 
 ## About
@@ -24,7 +25,7 @@ permalink: /about/
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.orcid %} <a href="{{ member.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-3x"></i></a> {% endif %}
-  {% if member.orcid %} <a href="{{ member.hal }}" target="_blank"><i class="ai ai-hal-square ai-3x"></i></a> {% endif %}
+  {% if member.hal %} <a href="{{ member.hal }}" target="_blank"><i class="ai ai-hal-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
 
@@ -39,18 +40,6 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
-
-<div class="jumbotron">
-  <h3>Grants</h3>
-  <ul>
-    {% for grant in site.data.grants %}
-      <li>{{ grant.name }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
 {% if site.data.awards %}
 
 <div class="jumbotron">
@@ -58,22 +47,6 @@ permalink: /about/
   <ul>
     {% for award in site.data.awards %}
       <li>{{ award.name | replace: "-","&#8211;" }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
-{% if site.data.people %}
-
-<div class="jumbotron">
-  <h3>Students and Mentoring</h3>
-  <ul>
-    {% for student in site.data.people %}
-      <li>
-        {{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})
-        <br/>
-        <i> {{ student.subject }} </i>
-      </li>
     {% endfor %}
   </ul>
 </div>

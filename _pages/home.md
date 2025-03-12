@@ -3,27 +3,22 @@ title: "Home"
 layout: homelay
 sitemap: false
 permalink: /
-date: "11-03-2025"
+date: "12-03-2025"
 ---
 
 ### Welcome!
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+On this website, you will find information about my academic experience, my actual teaching in the field of Computer science and my past and actual research activities.<br/>
+Feel free to contact me by <a href="mailto:hugo.rositi@loria.fr">mail</a> for any kind of requests (project proposal, publication access, internships opportunity, <i>etc.</i>).
 
 <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Liver_Vasculature_XPCT_Merola2020b.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+Visualization of the hepatic vascular networks automatically extracted and superimposed on reconstructed phase contrast images from synchrotron radiation. <i>Work realised in 2020</i>.
 </center>
 </div>
 </div>
 <br/>
 
 ### About me
-aa
+Associate professor in Computer Science since 2016.
