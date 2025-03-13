@@ -1,0 +1,23 @@
+- name: PLBIO Plasma
+  date: Sept. 2022
+  duration: 36 months
+  leader: S. Menecier (MCF UCA)
+  track: InCA 
+  subject: Prostate cancer treatment by cold plasma application.
+  implication: 17%
+
+- name: R-Vessel-X
+  date: Jan. 2019
+  duration: 36 months
+  leader: A. Vacavant (PU UCA)
+  track: ANR
+  subject: Robust vascular network extraction and understanding within hepatic biomedical images.
+  implication: 30%
+
+- name: AVACM
+  date: Jan. 2017
+  duration: 12 months
+  leader: C. Lohou (PU UCA)
+  track: PEPS INSIS
+  subject: Augmented visual assistance for medical consultations.
+  implication: 50%

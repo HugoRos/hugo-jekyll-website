@@ -13,7 +13,7 @@ date: "12-03-2025"
   <ul>
     {% for student in site.data.people %}
       <li>
-        {{ student.name }}, {{ student.location }} ({{ student.degree }}) [{{ student.year }}, {{ student.duration }}]
+        {{ student.name }}, {{ student.location }} ({{ student.degree }}) [{{ student.year }}, {{ student.duration }}]. {{ student.supervision }}.
         <br/>
         <p><i> {{ student.subject }} </i></p>
       </li>

@@ -3,7 +3,7 @@ title: "About"
 layout: gridlay
 sitemap: false
 permalink: /about/
-date: 12-03-2025
+date: 13-03-2025
 ---
 
 ## About
@@ -51,6 +51,36 @@ date: 12-03-2025
   </ul>
 </div>
 {% endif %}
+
+<div class="jumbotron">
+<h4>Editorial reviewing and expertise</h4>
+<ul>
+  {% if site.data.journals %}
+  <li>Reviews in peer-reviewed journals : 
+    <ul>
+      {% for journal in site.data.journals %}
+      <li>{{ journal.name }}</li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+  <li>Participation in conference commitee</li>
+  <ul>
+    <li>ORASIS 2019 (program commitee)</li>
+  </ul>
+  <li>Reviews of project proposal</li>
+  <ul>
+    <li>ANR</li>
+  </ul>
+  <li>PhD thesis commitee</li>
+  <ul>
+    <li>Member of the follow-up commitee of Cassandra Céré's PhD thesis (LARIS Laboratory)<br/>
+      <i>MRI and machine learning for neurology in veterinary imaging.</i>
+    </li>
+  </ul>
+</ul>
+</div>
+
 
 <div class="jumbotron">
   <h4>Affiliations</h4>

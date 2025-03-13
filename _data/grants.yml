@@ -1,1 +1,11 @@
-- name: a
+- name: NVIDIA Hardware grant
+  year: August 2021
+  duration: ad-hoc
+  subject: Deep learning methods development for vascular structures segmentation
+  allocation: 2 GPUs AI dedicated.
+
+- name: ESRF beamtime proposal
+  year: October 2018
+  duration: ad-hoc
+  subject: X-ray phase contrast images acquisition of mouse livers.
+  allocation : beamtime

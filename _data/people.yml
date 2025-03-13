@@ -6,54 +6,41 @@
   duration : 3 months
 
 - name: Joshua Gobé
-  location: Université de Lyon, Co-supervision 30%
+  location: Université de Lyon
+  supervision: Co-supervision 30%
   degree: PhD Thesis
   subject: "Phase contrast imaging : a new tool for neuroscience"
   year: September 2022
   duration : 24 months, abandonment
 
 - name: Lucas Paulo
-  location : IUT Clermont Auvergne, DUT Informatique, Co-supervision 50%
+  location : IUT Clermont Auvergne, DUT Informatique
+  supervision: Co-supervision 50%
   degree: Lic. Internship
   subject: Development of a plugin to enhance vascular structures in highly voluminous datasets for ImageJ software.
   year: May 2021
   duration: 2 months
 
 - name: Lucca Merola
-  location: Polytech Lyon, M2 Imagerie Médicale Signal & Système, Co-supervision 50%
+  location: Polytech Lyon, M2 Imagerie Médicale Signal & Système
+  supervision: Co-supervision 50%
   degree: Master internship
   subject: "Segmentation and extraction of mouse vascular networks : application to cerebral and hepatic networks."
   duration: 5 months
   year: March 2020
 
 - name: Tiphaine Richard
-  location: Université de Strasbourg, Master 1 Informatique, Co-supervision 30%
+  location: Université de Strasbourg, Master 1 Informatique
+  supervision: Co-supervision 30%
   degree: Master project
   subject: Hepatic vascular network modelization through graphs.
   year: January 2019
   duration: 3 months
 
 - name: Coralie Gislard
-  location: Université Grenoble-Alpes, Master 2 Physique Médicale, Co-supervision 50%
+  location: Université Grenoble-Alpes, Master 2 Physique Médicale
+  supervision: Co-supervision 50%
   degree: Master internship
   subject: 3D detection of amyloid deposits in transgenic models of Alzheimer's disease with Synchrotron radiation phase contrast imaging.
   duration: 6 months
   year: March 2018
-
-
-
-# Lucas Paulo, DUT Informatique, IUT Clermont Auvergne (Mai 2021, 2 mois, co-encadrement avec
-# Antoine Vacavant, Institut Pascal), stage :
-# Développement d’un plugin de rehaussement de structures vasculaires sur des données volumineuses
-# pour le logiciel ImageJ.
-
-# ▷ Lucca Merola, M2 Imagerie Médicale Signal & Système, Polytech Lyon (Mars 2020, 5 mois, encadrant
-# principal, co-encadrement avec Fabien Chauveau, CRNL et Antoine Vacavant, Institut Pascal), stage :
-# Segmentation et extraction du réseau vasculaire chez la souris : application aux réseaux cérébral
-# et hépatique.
-# ▷ Tiphaine Richard, Master 1 Informatique, Université de Strasbourg (Janvier 2019, 3 Mois, coencadrement
-# 30%), projet d’étude :
-# Modélisation du réseau vasculaire du foie par un graphe.
-# ▷ Coralie Gislard, Master 2 Physique Médicale, Université Grenoble-Alpes (Mars 2018, 6 mois, coencadrement
-# 50% avec Fabien Chauveau, CRNL), stage :
-# Détection 3D de dépôts amyloïdes dans des modèles transgéniques de
