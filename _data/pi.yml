@@ -9,12 +9,12 @@
   scholar: https://scholar.google.fr/citations?user=qbKwu-gAAAAJ&hl=fr&oi=ao
   orcid: https://orcid.org/0000-0002-5264-2027
   hal: https://hal.science/search/index/q/*/authIdHal_s/hugo-rositi
-  cv: papers/feynman06.pdf
+  cv: papers/CVHugoROSITI.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
       "(2015) Ph.D. in Biomedical Engineering, INSA Lyon",
-      "(2011) Master Informatique, Spécialité Imagerie du Vivant, Université Pierre et Marie Curie, Paris.",
+      "(2012) Master Informatique, Spécialité Imagerie du Vivant, Université Pierre et Marie Curie, Paris.",
     ]
 
   # educationshort:

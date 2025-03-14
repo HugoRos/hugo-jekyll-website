@@ -53,32 +53,44 @@ date: 13-03-2025
 {% endif %}
 
 <div class="jumbotron">
-<h4>Editorial reviewing and expertise</h4>
-<ul>
-  {% if site.data.journals %}
-  <li>Reviews in peer-reviewed journals : 
-    <ul>
-      {% for journal in site.data.journals %}
-      <li>{{ journal.name }}</li>
-      {% endfor %}
-    </ul>
-  </li>
-  {% endif %}
-  <li>Participation in conference commitee</li>
+  <h3>Editorial reviewing and expertise</h3>
   <ul>
-    <li>ORASIS 2019 (program commitee)</li>
-  </ul>
-  <li>Reviews of project proposal</li>
-  <ul>
-    <li>ANR</li>
-  </ul>
-  <li>PhD thesis commitee</li>
-  <ul>
-    <li>Member of the follow-up commitee of Cassandra Céré's PhD thesis (LARIS Laboratory)<br/>
-      <i>MRI and machine learning for neurology in veterinary imaging.</i>
+    {% if site.data.journals %}
+    <li>Reviews in peer-reviewed journals : 
+      <ul>
+        {% for journal in site.data.journals %}
+        <li>{{ journal.name }}</li>
+        {% endfor %}
+      </ul>
     </li>
+    {% endif %}
+    <li>Participation in conference commitee</li>
+    <ul>
+      <li>ORASIS 2019 (program commitee)</li>
+    </ul>
+    <li>Reviews of project proposal</li>
+    <ul>
+      <li>ANR</li>
+    </ul>
+    <li>PhD thesis commitee</li>
+    <ul>
+      <li>Member of the follow-up commitee of Cassandra Céré's PhD thesis (LARIS Laboratory)<br/>
+        <i>MRI and machine learning for neurology in veterinary imaging.</i>
+      </li>
+    </ul>
   </ul>
-</ul>
+</div>
+
+<div class="jumbotron">
+  <h3>Scientific responsabilities</h3>
+  <ul>
+    <li></li>
+  </ul>
+</div>
+
+<div class="jumbotron">
+  <h3>Teaching responsabilities</h3>
+
 </div>
 
 

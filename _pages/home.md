@@ -24,11 +24,19 @@ Visualization of the hepatic vascular networks automatically extracted and super
 <br/>
 
 ### About me
+
 <p class="text-justify">
-Since september 2023, i am associate professor at Université de Lorraine. I give teachings in the Computer science department of IUT Saint-Dié (Saint-Dié-des-Vosges). My research activities are developed in the framework of the ADAGIO team of the LORIA Laboratory (Vandoeuvre-lès-Nancy). 
+Throughout my education i specialised myself in Computer science, Image processing and more specifically in treatments of biomedical images from various kind of imaging modalities.
 </p>
 
-Throughout my education i specialised myself in Image processing and more specifically in treatments of biomedical images from various kind of imaging modalities. 
-I started my academic endeavor in thesis creatis
-institut pascal 
-Associate professor in Computer Science since 2016.
+<p class="text-justify">
+I started my academic research endeavor with my PhD thesis at <a href="https://www.creatis.insa-lyon.fr">CREATIS</a> laboratory where i developed tools inspired from classic computer vision methods to tackle different problems of information's extraction in X-ray phase contrast images.
+</p>
+
+<p class="text-justify">
+Then in 2016, i joined the Université Clermont Auvergne as associate professor (for 7 years) in <a href="http://www.institutpascal.uca.fr/">Institut Pascal</a> laboratory where i started to work on the extraction and reconstruction of hepatic blood vessels at microscopic scale. In parallel, i dispensed teachings at IUT Clermont Auvergne mainly in image processing, mathematics and web development.
+</p>
+
+<p class="text-justify">
+Currently and since september 2023, i am associate professor at Université de Lorraine. I give teachings in the Computer science department of IUT Saint-Dié (Saint-Dié-des-Vosges). My research activities are developed in the framework of the ADAGIO team of the <a href="https://www.loria.fr/en">LORIA</a> Laboratory (Vandoeuvre-lès-Nancy), where i continue my previous work on vascular network extraction and reconstruction with more specific focus on the discrete geometric tools that can be of use in this context and which are the DNA of the ADAGIO team.
+</p>
