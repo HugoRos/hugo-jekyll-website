@@ -88,7 +88,7 @@ Example description
     {% for grant in site.data.grants %}
       <li style="margin: 10px">
         {{ grant.name }} ( {{ grant.year }}, {{ grant.duration }}) - {{ grant.allocation }}<br/>
-        <i>{{ grant.subject }}.</i>
+        <i>{{ grant.subject }}</i>
       </li>
     {% endfor %}
   </ul>

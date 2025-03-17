@@ -5,18 +5,26 @@
   year: May 2024
   duration : 3 months
 
+- name: Fatma Krikid
+  location: Université Clermont Auvergne
+  supervision: Co-supervision 50%
+  degree: Post-doc
+  subject: Development of AI image processing for microscopic scale biological images.
+  duration: 24 months
+  year: July 2023
+
 - name: Joshua Gobé
   location: Université de Lyon
   supervision: Co-supervision 30%
   degree: PhD Thesis
-  subject: "Phase contrast imaging : a new tool for neuroscience"
+  subject: "Phase contrast imaging : a new tool for neuroscience."
   year: September 2022
   duration : 24 months, abandonment
 
 - name: Lucas Paulo
   location : IUT Clermont Auvergne, DUT Informatique
   supervision: Co-supervision 50%
-  degree: Lic. Internship
+  degree: Lic. internship
   subject: Development of a plugin to enhance vascular structures in highly voluminous datasets for ImageJ software.
   year: May 2021
   duration: 2 months

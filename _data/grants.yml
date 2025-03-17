@@ -1,7 +1,7 @@
 - name: NVIDIA Hardware grant
   year: August 2021
   duration: ad-hoc
-  subject: Deep learning methods development for vascular structures segmentation
+  subject: Deep learning methods development for vascular structures segmentation.
   allocation: 2 GPUs AI dedicated.
 
 - name: ESRF beamtime proposal

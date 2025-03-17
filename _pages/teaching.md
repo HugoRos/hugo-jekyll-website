@@ -15,5 +15,3 @@ date: 14-03-2025
 <div class="jumbotron col-sm-10">
 <h4>Previous teachings</h4>
 </div>
-
-

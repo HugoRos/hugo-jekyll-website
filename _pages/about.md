@@ -84,13 +84,27 @@ date: 13-03-2025
 <div class="jumbotron">
   <h3>Scientific responsabilities</h3>
   <ul>
-    <li></li>
+    <li>[2018-2023] Co-representative of team-group CAVITI in the WP4 (Multidimensional image processing) of LABEX Primes.</li>
   </ul>
 </div>
 
 <div class="jumbotron">
   <h3>Teaching responsabilities</h3>
+  <ul>
+    <li>[2023 - ...] Supervisor of internships in the Computer Science Departement (IUT Saint-Dié).</li>
+    <li>[2022-2023] Supervisor of Web development track in BUT MMI.</li>
+    <li>[2021-2023] Supervisor of several SAés in BUT MMI (IUT Clermont-Ferrand, Site du Puy-en-Velay).</li>
+    <li>[2019-2022] Supervisor of the tutorship projects of Licence Métiers du Numérique.</li>
+    <li>[2021-2023] Supervisor of <i>Internet of Things</i> module in the Master 2 Computer Science - 3D and Artificial Intelligence (ISIMA Clermont-Ferrand).</li>
+    <li>[2017-2021] Supervisor of the tutorship projects of DUT Métiers du Multimédia et de l'Internet (MMI, IUT Clermont-Ferrand, Site du Puy-en-Velay).</li>
+  </ul>
+</div>
 
+<div class="jumbotron">
+  <h3>Other responsabilities</h3>
+  <ul>
+    <li>[2022-2023] Elected member of the teacher and university lecturer commission of IUT Clermont-Auvergne.</li>
+  </ul>
 </div>
 
 
