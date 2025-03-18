@@ -1,0 +1,133 @@
+- name: Continuous integration and delivery
+  degree: Licence
+  program: BUT Informatique (year 3)
+  year: 2023 - ...
+  hours: 19
+  school: Saint-Dié
+
+- name: Advanced virtualization
+  degree: Licence
+  program: BUT Informatique (year 3)
+  year: 2023 - ...
+  hours: 19
+  school: Saint-Dié
+
+- name: Program architecture
+  degree: Licence
+  program: BUT Informatique (year 2)
+  year: 2023 - ...
+  hours: 38
+  school: Saint-Dié
+
+- name: Web development
+  degree: Licence
+  program: BUT Informatique (year 2)
+  year: 2023 - ...
+  hours: 40
+  school: Saint-Dié
+
+- name: Introduction to programming
+  degree: Licence
+  program: BUT Informatique (year 1)
+  year: 2023 - ...
+  hours: 64
+  school: Saint-Dié
+
+- name: Virtualization
+  degree: Licence
+  program: BUT Informatique (year 2)
+  year: 2024 - ...
+  hours: 24
+  school: Nancy-Charlemagne
+
+- name: Internet of Things
+  degree: Master
+  program: 3D AI
+  year: 2021 - 2022
+  hours: 12-18
+  school: isima
+
+- name: Image processing
+  degree: Master
+  program: 3D AI
+  year: 2021 - 2022
+  hours: 12
+  school: isima
+
+- name: Project management in web development
+  degree: Licence
+  program: Métiers du numérique
+  year: 2019-2022
+  hours: 14
+  school: IUT Le Puy
+
+- name: Tutorship project
+  degree: Licence
+  program: Métiers de l'informatique
+  year: 2019-2021
+  hours: 25
+  school: IUT Le Puy
+
+- name: Mathematics
+  degree: Licence
+  program: MMI (year 1 and 2)
+  year: 2016-2023
+  hours: 24 and 20
+  school: IUT Le Puy
+
+- name: Signal processing
+  degree: Licence
+  program: MMI (year 1 and 2)
+  year: 2019-2023
+  hours: 22-26
+  school: IUT Le Puy
+
+- name: Algorithmics and programmation
+  degree: Licence
+  program: MMI (year 1)
+  year: 2019-2023
+  hours: 60
+  school: IUT Le Puy
+
+- name: Databases
+  degree: Licence
+  program: MMI (year 1)
+  year: 2019-2023
+  hours: 24-30
+  school: IUT Le Puy
+
+- name: Web development
+  degree: Licence
+  program: MMI (year 1)
+  year: 2021-2023
+  hours: 14
+  school: IUT Le Puy
+
+- name: Student projects and internships
+  degree: Licence
+  program: MMI (year 2 and 3)
+  year: 2016-2023
+  hours: XX
+  school: IUT Le Puy
+
+- name: Image processing
+  degree: Master (Engineer)
+  program: Bio-informatics (year 5)
+  year: 2014-2015
+  hours: 12
+  school: INSA Lyon
+
+- name: Introduction to Computer science
+  degree: Licence (Engineer)
+  program: Undergraduate
+  year: 2012-2015
+  hours: 32
+  school: INSA Lyon
+
+- name: Introduction to oriented object programming
+  degree: Licence (Engineer)
+  program: Undergraduate
+  year: 2012-2015
+  hours: 32
+  school: INSA Lyon
+
