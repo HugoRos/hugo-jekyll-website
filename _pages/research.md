@@ -69,15 +69,16 @@ Two work axis are now clearly my priority: first, improve the accuracy of the se
 
 <div class="jumbotron">
 <h5>Mixed reality impact in a clinical context (2016-2020)</h5>
-Dans le cadre du projet avacm (PEPS INSIS)
-Ce projet avait pour
-objectif de porter un certain type de matériel de réalité mixte (Microsoft HoloLens) jusqu’au patient
-dans un contexte clinique pour en mesurer l’acceptabilité et le bénéfice apporté.
 
-Cette étude réalisée sur 30 patients a montré que cette technologie peut être utilisée dans un cadre
-médical et présente une bonne acceptabilité parmi l’échantillon des patients qui y ont participé, en plus
-de pouvoir opérer un apprentissage par le geste qui semble aider à une meilleure prise d’informations
-[Barret-Grimault et al. (2019), Rositi et al. (2021), Appadoo et al. (2023)].
+<p class="text-justify">
+In the scope of athe AVACM project (CNRS PEPS INSIS), we were interested in measuring the impact of mixed reality in a medical context application.
+This project was designed to bring a specific type of mixed reality equipment (Microsoft HoloLens) towards patient to assess its acceptability and benefit in a clinical context.
+</p>
+
+<p class="text-justify">
+This study was performed over 30 patients and showed that this kind of technology can be used in a medical context and present a good acceptability among the patient sample who participate. Moreover, a learning by the gesture can be performed and there improve the knowledge acquired 
+by the patient [Barret-Grimault et al. (2019), Rositi et al. (2021), Appadoo et al. (2023)].
+</p>
 <center>
   <img src="{{ site.url }}{{ site.baseurl }}/images/avacm.jpg" alt="Illustration of a workshop using mixed reality in a clinical context." width="100%">
 </center>
