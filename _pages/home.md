@@ -3,7 +3,7 @@ title: "Home"
 layout: homelay
 sitemap: false
 permalink: /
-date: "13-03-2025"
+date: "19-11-2025"
 ---
 
 ### Welcome!
