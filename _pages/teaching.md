@@ -23,7 +23,7 @@ In the Computer science department of IUT Saint-Dié.
   </thead>
   <tbody>
     {% for course in site.data.teachings %}
-        {% if course.school contains "Dié" %}
+        {% if course.status contains "actual" and course.school contains "Dié" %}
             <tr>
                 <td>{{ course.year }}</td>
                 <td>{{ course.name }}</td>
@@ -65,6 +65,32 @@ In the Computer science department of IUT Nancy-Charlemagne.
 <div class="jumbotron col-sm-12">
 <h4>Previous teachings</h4>
 The below listing is non-exhaustive and has for sole purpose to show the main courses and their diversities that I dispensed in my previous teaching experiences.<br/>
+
+In the Computer science department of IUT Saint-Dié.
+<table class="table table-dark">
+  <thead>
+  <tr>
+    <th>Year</th>
+    <th>Course</th>
+    <th>Degree</th>
+    <th>Program</th>
+    <th style="text-align: right">Total hours</th>
+  </tr> 
+  </thead>
+  <tbody>
+    {% for course in site.data.teachings %}
+        {% if course.status contains "previous" and course.school contains "Saint-Dié" %}
+            <tr>
+                <td>{{ course.year }}</td>
+                <td>{{ course.name }}</td>
+                <td>{{ course.degree }}</td>
+                <td>{{ course.program }}</td>
+                <td style="text-align: right">{{ course.hours }}</td>
+            </tr>
+        {% endif %}  
+    {% endfor %}
+  </tbody>
+</table>
 
 In the Master Program 3D and Artificial intelligence of ISIMA, Clermont-Ferrand.
 <table class="table table-dark">

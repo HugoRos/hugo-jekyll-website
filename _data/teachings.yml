@@ -1,9 +1,26 @@
+- name: Graphical applications
+  degree: Licence
+  program: BUT Informatique (year 3)
+  year: 2025 - ...
+  hours: 28
+  school: Saint-Dié
+  status: actual
+
+- name: Image processing
+  degree: Licence
+  program: BUT Informatique (year 2)
+  year: 2025 - ...
+  hours: 14
+  school: Saint-Dié
+  status: actual
+
 - name: Continuous integration and delivery
   degree: Licence
   program: BUT Informatique (year 3)
-  year: 2023 - ...
+  year: 2023 - 2025
   hours: 19
   school: Saint-Dié
+  status: previous
 
 - name: Advanced virtualization
   degree: Licence
@@ -11,6 +28,7 @@
   year: 2023 - ...
   hours: 19
   school: Saint-Dié
+  status: actual
 
 - name: Program architecture
   degree: Licence
@@ -18,6 +36,7 @@
   year: 2023 - ...
   hours: 38
   school: Saint-Dié
+  status: actual
 
 - name: Web development
   degree: Licence
@@ -25,6 +44,7 @@
   year: 2023 - ...
   hours: 40
   school: Saint-Dié
+  status: actual
 
 - name: Introduction to programming
   degree: Licence
@@ -32,6 +52,7 @@
   year: 2023 - ...
   hours: 64
   school: Saint-Dié
+  status: actual
 
 - name: Virtualization
   degree: Licence
@@ -39,6 +60,7 @@
   year: 2024 - ...
   hours: 24
   school: Nancy-Charlemagne
+  status: actual
 
 - name: Internet of Things
   degree: Master
