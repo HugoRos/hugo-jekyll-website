@@ -3,13 +3,14 @@ title: "Teaching"
 layout: gridlay
 sitemap: false
 permalink: /teaching/
-date: 14-03-2025
+date: 27-11-2025
 ---
 
 ## Teaching activities
 All my actual teaching activities (and most of my previous activities) are focused on computer science, programming and/or image processing.
 <div class="jumbotron col-md-12">
 <h4>Actual teachings</h4>
+
 In the Computer science department of IUT Saint-Dié.
 <table class="table table-dark">
   <thead>
@@ -35,6 +36,7 @@ In the Computer science department of IUT Saint-Dié.
     {% endfor %}
   </tbody>
 </table>
+
 In the Computer science department of IUT Nancy-Charlemagne.
 <table class="table table-dark">
   <!-- <thead>
