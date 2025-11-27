@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 sitemap: false
 permalink: /allnews.html
-date: 13-03-2025
+date: 27-11-2025
 ---
 
 ## News
