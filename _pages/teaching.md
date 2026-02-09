@@ -3,7 +3,7 @@ title: "Teaching"
 layout: gridlay
 sitemap: false
 permalink: /teaching/
-date: 27-11-2025
+date: 09-02-2026
 ---
 
 ## Teaching activities
@@ -51,6 +51,33 @@ In the Computer science department of IUT Nancy-Charlemagne.
   <tbody>
     {% for course in site.data.teachings %}
         {% if course.school contains "Charlemagne" %}
+            <tr>
+                <td>{{ course.year }}</td>
+                <td>{{ course.name }}</td>
+                <td>{{ course.degree }}</td>
+                <td>{{ course.program }}</td>
+                <td style="text-align: right">{{ course.hours }}</td>
+            </tr>
+        {% endif %}  
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+
+In the Computer science department of Faculté de Sciences et Technologies (Université de Lorraine).
+<table class="table table-dark">
+  <!-- <thead>
+  <tr>
+    <th>Year</th>
+    <th>Course</th>
+    <th>Degree</th>
+    <th>Program</th>
+    <th>Total hours</th>
+  </tr> 
+  </thead> -->
+  <tbody>
+    {% for course in site.data.teachings %}
+        {% if course.school contains "FST" %}
             <tr>
                 <td>{{ course.year }}</td>
                 <td>{{ course.name }}</td>

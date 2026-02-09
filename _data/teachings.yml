@@ -1,4 +1,12 @@
-- name: Graphical applications
+- name: Graphical applications - Computer vision
+  degree: Master
+  program: Computer Science
+  year: 2025 - ...
+  hours: 12
+  school: FST
+  status: actual
+
+- name: Graphical applications - Computer vision
   degree: Licence
   program: BUT Informatique (year 3)
   year: 2025 - ...
@@ -59,6 +67,14 @@
   program: BUT Informatique (year 2)
   year: 2024 - ...
   hours: 24
+  school: Nancy-Charlemagne
+  status: actual
+
+- name: Advanced virtualization
+  degree: Licence
+  program: BUT Informatique (year 3)
+  year: 2025 - ...
+  hours: 22
   school: Nancy-Charlemagne
   status: actual
 
