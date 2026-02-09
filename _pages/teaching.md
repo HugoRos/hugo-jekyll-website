@@ -62,7 +62,6 @@ In the Computer science department of IUT Nancy-Charlemagne.
     {% endfor %}
   </tbody>
 </table>
-</div>
 
 In the Computer science department of Faculté de Sciences et Technologies (Université de Lorraine).
 <table class="table table-dark">
