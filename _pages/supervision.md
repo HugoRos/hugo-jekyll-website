@@ -3,7 +3,7 @@ title: "Home"
 layout: gridlay
 sitemap: false
 permalink: /supervision/
-date: "12-03-2025"
+date: "24-08-2026"
 ---
 
 {% if site.data.people %}
